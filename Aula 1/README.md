@@ -25,7 +25,7 @@ verifique se foi instalado corretamente digitando
 ### Indicação de extensões:
 
 1. Material Icon Theme
-2. Lint
+2. Eslint
 3. Path intellisense
 4. Prettier
 
