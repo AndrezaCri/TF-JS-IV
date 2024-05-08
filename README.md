@@ -14,7 +14,7 @@ Esse repositório é voltado ao módulo de JavaScript IV.
 
 #### [02/maio] Aula 02
 
-- POO: Programação Orientada a Objetos
+- Typescript: prática
 
 #### [06/maio] Aula 03
 
@@ -22,11 +22,11 @@ Esse repositório é voltado ao módulo de JavaScript IV.
 
 #### [08/maio] Aula 04
 
-- POO: Programação Orientada a Objetos
+- POO: Herança
 
 #### [09/maio] Aula 05
 
-- POO: Programação Orientada a Objetos
+- POO: Prática
 
 ---
 
