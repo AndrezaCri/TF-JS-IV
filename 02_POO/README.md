@@ -20,6 +20,12 @@ Classe é um conjunto de características e comportamentos que definem o conjunt
 
 Objetos são instâncias de classes, que determinam qual informação um objeto contém e como ele pode manipulá-la. É uma entidade capaz de reter um estado (informação) e que oferece uma série de informações (comportamento) ou para examinar ou para afetar este estado. É através deles que praticamente todo o processamento ocorre em sistemas implementados com linguagens de programação orientada a objetos.
 
+## Herança
+https://blog.grancursosonline.com.br/heranca-na-programacao-orientada-a-objetos/ 
+
+## Interface
+A interface de um objeto consiste de um conjunto de métodos que um objeto deve suportar. Na programação orientada a objetos, as interfaces são mais adequadas devido à sua capacidade de estender classes e suportar herança. Isso torna as interfaces uma escolha ideal ao trabalhar com paradigmas de programação orientada a objetos, pois fornecem uma abordagem mais estruturada e garantem consistência entre classes derivadas.
+
 ---
 
 Fonte:
@@ -27,3 +33,4 @@ Fonte:
 - https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos
 - https://medium.com/@TDamiao/16-conceitos-poo-programa%C3%A7%C3%A3o-orientada-a-objeto-6cdc72ac3ee2
 - https://blog.matheus.io/pt/desenvolvimento/orientacao-objetos-classes-herancas-interfaces/
+- https://adevindev.xyz/post/type-vs-interface-no-typescript
