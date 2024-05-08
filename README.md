@@ -26,7 +26,7 @@ Esse repositório é voltado ao módulo de JavaScript IV.
 
 #### [09/maio] Aula 05
 
-- POO: Prática
+- POO: Interfaces
 
 ---
 
